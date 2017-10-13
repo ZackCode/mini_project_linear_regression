@@ -2,4 +2,4 @@
 
 This is a mini project for linear regression practice using sklearn package.
 
-Main report is //Mini_Project_Linear_Regression.ipynb
+Main report is /Mini_Project_Linear_Regression.ipynb
